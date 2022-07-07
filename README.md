@@ -1,0 +1,2 @@
+# tcc-puc-minas-frontend
+O Projeto Integrado se constitui no desenvolvimento de uma aplicação Web completa com módulo servidor e módulo cliente. O tema do projeto é uma aplicação web desenvolvida em Java com Spring Boot e React, usando o conceito de api first para um sistema de avaliação de desempenho dos colaboradores de uma empresa. Visando mapear as competências e evidenciar pontos de melhorias.
