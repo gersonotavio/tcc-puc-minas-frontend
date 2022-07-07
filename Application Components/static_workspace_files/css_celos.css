@@ -1,0 +1,31 @@
+﻿.t-Login-logo {
+	width: 240px;
+	background-image: url("/i/celos/logo_celos.png");
+}
+/*.t-Login-logo {
+	width: 240px;
+	background-image: url("#WORKSPACE_IMAGES#logo_celos.png");
+}*/
+
+
+.t-Region-headerItems--title {
+	padding: 1rem 1.2rem;
+}
+
+
+/*input#P101_USERNAME::-webkit-input-placeholder{
+    color:transparent;
+}
+
+input#P101_USERNAME::-webkit-input-placeholder::before {
+    content: 'usuário';
+}
+
+
+input#P101_PASSWORD::-webkit-input-placeholder{
+    color:transparent;
+}
+
+input#P101_PASSWORD::-webkit-input-placeholder::before {
+    content: 'senha';
+}*/
